@@ -71,7 +71,7 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
 </div>
 
 <style>
-.gs-section-01 h3 { 
+.gs-section-01 h4 { 
      color: red }
 </style>
 
