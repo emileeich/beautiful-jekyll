@@ -91,7 +91,7 @@ Scroll down to see the steps involved, but here is a 30-second video just as a r
      color: blue; 
 }
 .gs-section-02 p {
-      color: purple;
+      color: orange;
 }
 
 </style>
