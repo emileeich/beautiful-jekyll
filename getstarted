@@ -1,7 +1,8 @@
 ---
-Title: Get Started Page
-Date: 2024-02-13
-Description: Get Started page with edits
+layout: page
+title: Get Started Page
+date: 2024-02-13
+description: Get Started page with edits
 ---
 # Beautiful Jekyll
 
